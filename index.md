@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ##Uusi tiedosto
 Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Curabitur aliquet quam id dui posuere blandit.
 
